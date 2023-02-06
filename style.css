@@ -23,7 +23,7 @@ main {
 
 .intro-chunk {
   margin: 64px 0;
-  padding: 0 32px;
+  padding: 32px 12px;
   line-height: 1.5rem;
   max-width: 400px;
 }
